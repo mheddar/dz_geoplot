@@ -1,2 +1,1 @@
-# dz_geoplot
-Geographical Plots of Algeria
+# DZ Geographical Plots using Streamlit
