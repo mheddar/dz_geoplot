@@ -8,7 +8,7 @@ import os
 
 
 st.sidebar.title('DZ Geographical Plotting')
-st.sidebar.subheader("Designed by: Mohamed Heddar")
+st.sidebar.markdown("Designed by: [Mohamed Heddar](https://mheddar.github.io/)")
 st.sidebar.markdown("Ref: [GeoJson files](https://github.com/fr33dz/Algeria-geojson)")
 
 @st.cache
